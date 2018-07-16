@@ -1,0 +1,5 @@
+<mj-section background-color="#fff" border-bottom="1px solid #e3e3e3">
+  <mj-column>
+    <mj-image width="180px" align="center" src="https://trello-attachments.s3.amazonaws.com/5abe3acb69038acad7d430df/5b3b7679667ca9534d83c190/4f747554a3244955dd71b1e7162ee345/avril.png"></mj-image>
+  </mj-column>
+</mj-section>
