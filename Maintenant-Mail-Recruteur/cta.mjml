@@ -1,0 +1,15 @@
+<mj-section background-color="#fff">
+  <mj-column>
+    <mj-button 
+               href="#" 
+               border-radius="4px" 
+               background-color="#7EC9C8" 
+               color="#FFFFFF" 
+               font-family="Roboto, Open Sans, Arial, sans-serif"
+               font-weight="400" 
+               font-size="18px"
+               line-height="30px">
+      Je recrute !
+    </mj-button>
+  </mj-column>
+</mj-section>

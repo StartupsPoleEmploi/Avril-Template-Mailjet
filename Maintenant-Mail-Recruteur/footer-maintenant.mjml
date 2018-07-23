@@ -1,0 +1,24 @@
+<mj-section background-color="#eee" full-width="full-width">
+  <mj-column>
+    <mj-image align="center" width="60" src="./images/FSE.png">
+    </mj-image>
+  </mj-column>
+  
+  <mj-column>
+    <mj-image align="center" width="60" src="./images/EU.png">
+   </mj-image>
+  </mj-column>
+  
+  <mj-column>
+    <mj-image align="center" src="./images/info-EU.png">
+    </mj-image>
+  </mj-column>
+</mj-section>
+
+<mj-section background-color="#eee" full-width="full-width">
+  <mj-column>
+    <mj-text align="center">
+      <a href="[[UNSUB_LINK_FR]]" style="color: inherit;" color="#2e5266" background-color="#eee">Je ne souhaite plus recevoir d'emails de Maintenant!</a>
+    </mj-text>
+  </mj-column>
+</mj-section>
