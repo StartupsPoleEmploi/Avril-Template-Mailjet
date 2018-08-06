@@ -7,7 +7,7 @@
             
       </mj-section>
 
-			<mj-section background-color="#fff" padding="8% 0 2%">
+			<mj-section background-color="#fff" padding="5% 0 2%">
         <mj-column>
     			<mj-image height="60px" width="60px" src="./images/pastille-cv-barre.png" />
             
