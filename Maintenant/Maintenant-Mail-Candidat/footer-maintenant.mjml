@@ -1,16 +1,16 @@
 <mj-section background-color="#eee" full-width="full-width">
   <mj-column>
-    <mj-image align="center" width="60" src="./images/FSE.png">
+    <mj-image align="center" width="60" src="https://i.imgur.com/aG6UEiv.png">
     </mj-image>
   </mj-column>
   
   <mj-column>
-    <mj-image align="center" width="60" src="./images/EU.png">
+    <mj-image align="center" width="60" src="https://i.imgur.com/OcZy4jb.png">
    </mj-image>
   </mj-column>
   
   <mj-column>
-    <mj-image align="center" src="./images/info-EU.png">
+    <mj-image align="center" src="https://i.imgur.com/lkFERai.png">
     </mj-image>
   </mj-column>
 </mj-section>

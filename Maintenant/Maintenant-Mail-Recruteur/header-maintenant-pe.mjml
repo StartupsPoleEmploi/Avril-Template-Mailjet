@@ -4,7 +4,7 @@
 
 <mj-section padding="40px" background-color="#fff" border-bottom="1px solid #e3e3e3">
   <mj-column vertical-align="middle">
-    <mj-image src="./images/logo-maintenant.png" align="left" width="180">
+    <mj-image src="https://i.imgur.com/RZ2tYzs.png" align="left" width="180">
     </mj-image>
   </mj-column>
   <mj-column vertical-align="middle">
