@@ -1,0 +1,14 @@
+<mj-section background-color="#fff">
+  <mj-column>
+    <mj-button 
+               href="#" 
+               border-radius="50px" 
+               background-color="#20d7a4" 
+               color="#2E5266" 
+               font-weight="900" 
+               font-size="18px"
+               line-height="30px">
+      Essayer maintenant
+    </mj-button>
+  </mj-column>
+</mj-section>
