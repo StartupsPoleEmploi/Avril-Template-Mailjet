@@ -1,0 +1,13 @@
+<mj-section padding="6px" full-width="full-width">
+  <mj-column padding="6px" width="100%" vertical-align="middle" />
+</mj-section>
+
+<mj-section padding="40px" background-color="#fff" border-bottom="1px solid #e3e3e3">
+  <mj-column vertical-align="middle">
+    <mj-image src="https://i.imgur.com/RZ2tYzs.png" width="180">
+    </mj-image>
+  </mj-column>
+  <mj-column vertical-align="middle">
+    <mj-image width="80" src="https://trello-attachments.s3.amazonaws.com/5abe3acb69038acad7d430df/5b3b7679667ca9534d83c190/3b725f675195e68d03a3220d2e430c1f/pole-emploi.png"></mj-image>
+  </mj-column>
+</mj-section>

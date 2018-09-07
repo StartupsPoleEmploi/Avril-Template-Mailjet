@@ -1,2 +1,3 @@
-# Avril-Template-Mailjet
-Template de mail MJML pour Mailjet
+# Templates Mailjet
+
+Templates de mail MJML pour Mailjet
