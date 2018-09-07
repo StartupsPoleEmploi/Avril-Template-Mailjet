@@ -1,0 +1,25 @@
+<mjml>
+
+  <mj-head>
+    <mj-breakpoint width="100px" />
+    <mj-attributes>
+      <mj-text align="center" color="#2e5266" font-size="16px" font-family="Roboto, Open Sans, Arial, sans-serif" line-height="24px" />
+    </mj-attributes>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+  </mj-head>
+
+  <mj-body background-color="#eee">
+
+    <mj-include path="./header.mjml" />
+
+    <mj-include path="./avril-content.mjml" />
+
+    <mj-include path="./cta.mjml" />
+
+    <mj-include path="./illustration.mjml" />
+
+    <mj-include path="./pole-emploi.mjml" />
+
+  </mj-body>
+
+</mjml>
