@@ -1,0 +1,12 @@
+    <mj-section background-color="#fff">
+
+      <mj-column padding="6% 6% 0">
+        <mj-text padding="0 5%" align="center">
+
+          <p>Sincérement vôtre,</p>
+          <p>L'équipe Avril</p>
+          
+        </mj-text>
+      </mj-column>
+
+    </mj-section>

@@ -1,0 +1,13 @@
+<mj-section background-color="#fff">
+
+  <mj-column padding="6% 6% 0">
+    <mj-text padding="0 5%">
+
+      <h3 color="#aaa" font-size="40px" align="center" style="line-height:40px">[[delegate-name]]</h3>
+      <p line-height="24px" align="center">[[delegate-address]]</p>
+      <p align="center">[[delegate-phone]]</p>
+
+    </mj-text>
+  </mj-column>
+
+</mj-section>

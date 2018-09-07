@@ -1,0 +1,12 @@
+    <mj-section background-color="#fff">
+
+      <mj-column padding="6% 6% 0">
+        <mj-text padding="0 5%">
+
+          <p line-height="24px">Pour le métier [[job]], vous avez choisi de valider le diplôme [[award]] par la <strong>VAE</strong></p>
+          <p>&nbsp;</p>
+          <p>Voici le rappel des étapes à suivre :</p>
+        </mj-text>
+      </mj-column>
+
+    </mj-section>
