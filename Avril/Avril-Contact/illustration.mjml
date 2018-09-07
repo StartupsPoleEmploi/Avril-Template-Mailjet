@@ -1,5 +1,8 @@
     <mj-section background-color="#fff">
       <mj-column>
-        <mj-image width="300%" src="https://trello-attachments.s3.amazonaws.com/5abe3acb69038acad7d430df/5b3b7679667ca9534d83c190/ab44cea9eab59d19c87efb4df2dade3e/Illustration.png"></mj-image>
+        <mj-text align="center">
+          <h6 style="font-size:30px">Nous vous souhaitons une totale réussite !</h6>
+        </mj-text>
+        <mj-image src="/assets/images/equipe-avril.svg"></mj-image>
       </mj-column>
     </mj-section>

@@ -1,11 +1,11 @@
-    <mj-section padding="5px" full-width="full-width">
-      <mj-column padding="5px" width="100%" vertical-align="middle">
-        <mj-text font-size="13px"><span style="font-size: 13px"><a href="[[PERMALINK]]" style="text-decoration: none; color: inherit;" color="#2e5266" background-color="#eee">[[PERMALINK_LABEL]]</a></span></mj-text>
+    <mj-section padding="0" full-width="full-width">
+      <mj-column padding="0" width="100%" vertical-align="middle">
+        <mj-text font-size="13px" align="center"><span style="font-size: 13px"><a href="[[PERMALINK]]" style="text-decoration: none; color: inherit;" color="#2e5266" background-color="#eee">[[PERMALINK_LABEL]]</a></span></mj-text>
       </mj-column>
     </mj-section>
 
     <mj-section background-color="#fff" border-bottom="1px solid #e3e3e3" padding-top="0" padding-bottom="0">
-      <mj-column vertical-align="middle">
-        <mj-image align="left" src="https://trello-attachments.s3.amazonaws.com/5abe3acb69038acad7d430df/5b3b7679667ca9534d83c190/b200abffacfd556942726d05612d267a/avril-polemploi.png"></mj-image>
+      <mj-column vertical-align="middle" padding="0">
+        <mj-image padding="0" align="left" src="https://trello-attachments.s3.amazonaws.com/5abe3acb69038acad7d430df/5b3b7679667ca9534d83c190/b200abffacfd556942726d05612d267a/avril-polemploi.png"></mj-image>
       </mj-column>
     </mj-section>

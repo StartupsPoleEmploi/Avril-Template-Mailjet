@@ -1,13 +1,7 @@
 <mj-section background-color="#eee">
   
-  <mj-column width="70%">
-    <mj-text align="left">
-      Vous recevez cet email car vous êtes inscrit en tant que demandeur d'emploi
-    </mj-text>
-  </mj-column>
-  
-  <mj-column width="30%">
-    <mj-image align="right" width="40" src="https://trello-attachments.s3.amazonaws.com/5abe3acb69038acad7d430df/5b3b7679667ca9534d83c190/3b725f675195e68d03a3220d2e430c1f/pole-emploi.png">
+  <mj-column width="100%">
+    <mj-image align="center" width="40" src="https://trello-attachments.s3.amazonaws.com/5abe3acb69038acad7d430df/5b3b7679667ca9534d83c190/3b725f675195e68d03a3220d2e430c1f/pole-emploi.png">
     </mj-image>
   </mj-column>
   

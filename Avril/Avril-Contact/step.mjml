@@ -1,0 +1,16 @@
+    <mj-section background-color="#fff">
+
+      <mj-column padding="6% 6% 0">
+        <mj-text padding="0 5%">
+					<h4>
+            <strong style="color:#20D7A4;font-size:64px;float:left">1</strong><span><strong style="font-size:22px">ère étape</strong></span>
+          </h4>
+          <p style="clear:both;"></p>
+          <h5 style="font-size:28px; margin-bottom:0;">Réunion d'information</h5>
+          <p style="padding-top:0;">Vous inscrire à une réunion d'information ou bien contacter le référent VAE de votre centre GRETA par mail ou téléphone.
+<br/>
+À l'issue de la réunion, un rendez-vous personnalisé vous sera proposé pour étudier votre situation.</p>
+        </mj-text>
+      </mj-column>
+
+    </mj-section>
